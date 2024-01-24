@@ -1,4 +1,4 @@
-![image](https://github.com/VihalKarhade/AI_Workshop_IITB/assets/130913527/15b5d926-bc70-4f75-b698-f3e0380a2db6)# AI_Workshop_IITB
+# AI_Workshop_IITB
 
 
 
