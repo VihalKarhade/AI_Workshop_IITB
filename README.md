@@ -18,7 +18,7 @@
 ![Screenshot 2024-01-24 204850](https://github.com/VihalKarhade/AI_Workshop_IITB/assets/130913527/cec2ce62-c57e-493b-8e55-7fbf9ed40015)
 
 
-3. Smoothning of Image
+3. Smoothning of Image.
 Different ways of smothning - usung Filter 2D, Average, Median, Gaussian
 
 
