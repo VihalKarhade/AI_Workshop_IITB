@@ -30,3 +30,9 @@ Different ways of smothning - usung Filter 2D, Average, Median, Gaussian
 #Processing Noisy Image
 
 ![Screenshot 2024-01-24 212253](https://github.com/VihalKarhade/AI_Workshop_IITB/assets/130913527/fe4b0409-357e-4f7e-ab5b-3c08b280f169)
+
+
+#Image Resize
+
+![Screenshot 2024-01-29 224314](https://github.com/VihalKarhade/AI_Workshop_IITB/assets/130913527/35e4978b-9205-45a8-8a92-22ba1320556a)
+
