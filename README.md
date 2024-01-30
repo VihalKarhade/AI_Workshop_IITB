@@ -47,3 +47,6 @@ Different ways of smothning - usung Filter 2D, Average, Median, Gaussian
 ![Screenshot 2024-01-29 225853](https://github.com/VihalKarhade/AI_Workshop_IITB/assets/130913527/6f27c82e-2c9c-4b59-a9b6-49987afe6200)
 
 
+#Video Edge
+
+![Screenshot 2024-01-29 230247](https://github.com/VihalKarhade/AI_Workshop_IITB/assets/130913527/4feeee43-923b-4d74-b9c5-f8c756d62634)
